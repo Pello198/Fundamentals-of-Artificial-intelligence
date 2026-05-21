@@ -98,5 +98,4 @@ aunt(X,Y) :-
 % Expected Result:
 % X = mark ;
 % X = anne ;
-% X = david ;
-% X = sarah.
+
